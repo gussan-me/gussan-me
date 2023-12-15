@@ -8,11 +8,11 @@
 
 
 
-# Qiita
+### Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Ayumu-y/posts.svg)](http://qiita.com/Ayumu-y)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Ayumu-y/contributions.svg)](http://qiita.com/Ayumu-y)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Ayumu-y/followers.svg)](http://qiita.com/Ayumu-y)
 
-# Stats
+### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=gussan-me&count_private=true&show_icons=true)](https://github.com/gussan-me)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gussan-me&layout=compact)](https://github.com/gussan-me)
