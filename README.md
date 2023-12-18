@@ -1,11 +1,15 @@
 # Self Introduce
 Nice to meet you
 
+
 I'm Ayumu Yamaguchi.
+
 I work for GENDA Go., Ltd as a data engineer.
+
 I'm building data infrastructure and creating data catalogs with streamlit.
 
 I also write technology blogs on Qiita。
+
 
 Thank you!
 
