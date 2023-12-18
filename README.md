@@ -1,13 +1,13 @@
-# 自己紹介
-株式会社GENDAの山口歩夢です。
+# Self Introduce
+Nice to meet you
 
-データエンジニアとして、
-データ基盤の構築やデータカタログの作成をしております。
+I'm Ayumu Yamaguchi.
+I work for GENDA Go., Ltd as a data engineer.
+I'm building data infrastructure and creating data catalogs with streamlit.
 
-Qiitaでの情報発信も行っております。
+I also write technology blogs on Qiita。
 
-よろしくお願いいたします！
-
+Thank you!
 
 
 ### Qiita
